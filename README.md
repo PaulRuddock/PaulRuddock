@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @PaulRuddock
-- 👀 I am a big fan of Everton FC and my life essentially revolves around my dog.
-- 🌱 I’m currently undertaking both Simplilearn and Codeacademy courses aiming to develop my coding and data analysis skills.
+- 👋 Hi, I’m @PaulRuddock, I am currently a Data Analyst working for Xander Talent in London!
 - 📫 You can contact me via email at Paul.Ruddock@xandertalent.com
 
 <!---
